@@ -3,6 +3,9 @@
 body {
     background-color: #eee;
 }
+.container{
+	background-color: #B6B6B6;
+}
 .newaccount {
 	margin-top: 5em;
 }
@@ -11,8 +14,7 @@ body {
     max-width: 530px;
     padding: 15px;
     margin: 0 auto;
-    background-color: #fff;
-    border-radius: 0.3em;
+        border-radius: 0.3em;
 }
 
 [role="form"] h2 {
